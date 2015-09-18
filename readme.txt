@@ -3,7 +3,6 @@ LIST OF MEMBERS FOR TEAM 31
 MEMBER 1 Ing Zhe Wong
  
 MEMBER 2 Heng Jin
- 
 MEMBER 3 William
  
 MEMBER 4 Alec
