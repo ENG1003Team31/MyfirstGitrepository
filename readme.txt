@@ -4,6 +4,6 @@ MEMBER 1 Ing Zhe Wong
  
 MEMBER 2 Heng Jin
  
-MEMBER 3 William
+MEMBER 3 William Kerr
  
 MEMBER 4 Alec
